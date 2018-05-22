@@ -1,3 +1,4 @@
+// Variant 2 (about the weather)
 #include <iostream>
 #ifdef HAVE_CONFIG_H
 #include <config.h>
